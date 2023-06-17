@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\Pranali\C#\Windows\Assignment_5\Controls_Assignment\bin\Debug\Controls_Assignment.exe.config
+C:\Users\Hp\Desktop\Pranali\C#\Windows\Assignment_5\Controls_Assignment\bin\Debug\Controls_Assignment.exe
+C:\Users\Hp\Desktop\Pranali\C#\Windows\Assignment_5\Controls_Assignment\bin\Debug\Controls_Assignment.pdb
+C:\Users\Hp\Desktop\Pranali\C#\Windows\Assignment_5\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Pranali\C#\Windows\Assignment_5\Controls_Assignment\obj\Debug\Controls_Assignment.Properties.Resources.resources
+C:\Users\Hp\Desktop\Pranali\C#\Windows\Assignment_5\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Pranali\C#\Windows\Assignment_5\Controls_Assignment\obj\Debug\Controls_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Pranali\C#\Windows\Assignment_5\Controls_Assignment\obj\Debug\Controls_Assignment.exe
+C:\Users\Hp\Desktop\Pranali\C#\Windows\Assignment_5\Controls_Assignment\obj\Debug\Controls_Assignment.pdb
+C:\Users\Hp\Desktop\Pranali\C#\Windows\Assignment_5\Controls_Assignment\obj\Debug\Controls_Assignment.frm_Windows_Tools.resources

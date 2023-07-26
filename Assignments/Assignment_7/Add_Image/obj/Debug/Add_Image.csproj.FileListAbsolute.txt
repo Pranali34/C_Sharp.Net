@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\obj\Debug\Add_Image.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\obj\Debug\Add_Image.Add_Image.resources
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\obj\Debug\Add_Image.Properties.Resources.resources
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\obj\Debug\Add_Image.Show_Image.resources
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\obj\Debug\Add_Image.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\obj\Debug\Add_Image.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\bin\Debug\Add_Image.exe.config
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\bin\Debug\Add_Image.exe
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\bin\Debug\Add_Image.pdb
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\obj\Debug\Add_Image.exe
+C:\Users\Hp\Desktop\Pranali\C#.Net\Windows\Assignment_7\Add_Image\obj\Debug\Add_Image.pdb
